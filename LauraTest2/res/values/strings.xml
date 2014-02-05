@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LauraTest2</string>
+    <string name="action_settings">Settings</string>
+    <string name="caption">Aliens are often also referred to as alien life, 
+        or simply aliens. These hypothetical forms of life 
+        range from simple bacteria-like organisms to beings far more complex 
+        than humans. The possibility that viruses might also exist 
+         extraterrestrially has been proposed. \nThe development and testing of hypotheses on extraterrestrial life is known as exobiology or astrobiology; the term astrobiology, however, includes the study of life on Earth viewed in its astronomical context. Scientists at the National Institutes of Health reported studies that life in the universe may have begun "9.7±2.5 billion years ago", billions of years before the Earth was formed, based on extrapolating the "genetic complexity of organisms" [from "major phylogenetic lineages"] to earlier times.[2][3] Many scientists consider extraterrestrial life to be plausible, but there is no direct evidence of its existence.[4] Since the mid-20th century, there has been an ongoing search for signs of extraterrestrial life, from radios used to detect possible extraterrestrial signals, to telescopes used to search for potentially habitable extrasolar planets. It has also played a major role in works of science fiction.</string>
+    <string name="title">Aliens!</string>
+    <string name="aliens">aliens</string>
+
+</resources>

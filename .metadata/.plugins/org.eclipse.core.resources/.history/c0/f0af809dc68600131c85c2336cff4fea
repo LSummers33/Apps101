@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Self-Care</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Feeling stressed? Click on an idea
+        below to help you relax.</string>
+    <string name="button1">Listen to music</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+
+</resources>

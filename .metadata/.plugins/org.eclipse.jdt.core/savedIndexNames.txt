@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/Laura/Desktop/Apps101/.metadata/.plugins/org.eclipse.jdt.core
+4104031080.index
+2728761271.index
+2975538178.index

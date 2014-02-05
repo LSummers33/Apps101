@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hopper-Lovelace</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Grace Hopper</string>
+    <string name="bio">While she was working on a Mark II Computer at a US Navy
+        research lab in Dahlgren, Virginia in 1947, her associates discovered 
+        a moth stuck in a relay and thereby impeding operation, whereupon she 
+        remarked that they were "debugging" the system. Though the term bug had 
+        been in use for many years in engineering to refer to small glitches and
+        inexplicable problems, Admiral Hopper did bring the term into popularity.
+        The remains of the moth can be found in the group\'s log book at the 
+        Smithsonian Institution\'s National Museum of American History in 
+        Washington, D.C. (Text from Wikipedia.org, image from history-computer.com)
+        </string>
+    <string name="grace_hopper">Grace Hopper</string>
+ 
+
+</resources>

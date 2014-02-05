@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Ada Lovelace</string>
+    <string name="bio">Ada described her approach as "poetical science" 
+        and herself as an "Analyst (&amp; Metaphysician)". As a young adult, 
+        her mathematical talents led her to an ongoing working relationship 
+        and friendship with fellow British mathematician Charles Babbage, and 
+        in particular Babbage\'s work on the Analytical Engine. Between 1842 and 
+        1843, she translated an article by Italian military engineer Luigi 
+        Menabrea on the engine, which she supplemented with an elaborate set of 
+        notes of her own, simply called Notes. These notes contain what many 
+        consider to be the first computer program—that is, an algorithm designed 
+        to be carried out by a machine. Lovelace\'s notes are important in the 
+        early history of computers. She also developed a vision on the capability 
+        of computers to go beyond mere calculating or number-crunching while 
+        others, including Babbage himself, focused only on those capabilities.
+        Ada\'s mind-set of "poetical science" led her to ask basic questions about
+         the Analytical Engine (as shown in her notes) examining how individuals 
+         and society relate to technology as a collaborative tool. 
+         (Text from Wikipedia.org, image from Biography.com)</string>
+    <string name="ada_lovelace">Ada Lovelace</string>
+     
+</resources>

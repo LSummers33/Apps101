@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">I-House</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Welcome to I-House NYC!</string>
+    <string name="blurb">Are you a graduate student looking for housing 
+        in NYC?\nInterested in living in a global community? Then 
+        click below to advance to the resident application.</string>
+    <string name="ihouse">The front entrance of International House is 
+        an imposing structure built in 1924 by John D. Rockefeller Jr.</string>
+    <string name="button">Application</string>
+
+</resources>

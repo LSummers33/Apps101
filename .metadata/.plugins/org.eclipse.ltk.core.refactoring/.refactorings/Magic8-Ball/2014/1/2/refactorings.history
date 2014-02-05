@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extracts string &apos;Button&apos; into R.string.button" description="Extracts string &apos;Button&apos; into R.string.button" file="/Magic8-Ball/res/layout/activity_main.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.extract.string" mode="EDIT_SOURCE" proj="/Magic8-Ball" rplc-all-java="false" rplc-all-xml="false" sel-end="932" sel-start="927" stamp="1389458870680" tok-esc="Button" xml-attr-name="android:text"/>
+</session>
